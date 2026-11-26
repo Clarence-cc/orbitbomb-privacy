@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "interstitial": {
+    "enabled": true,
+    "skipFirstCompletedRuns": 2,
+    "minCompletedRunsBetweenAds": 3,
+    "minSecondsSinceLastFullscreenAd": 180,
+    "skipIfRewardedAdShownThisRun": true
+  }
+}
