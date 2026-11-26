@@ -1,8 +1,11 @@
 {
   "schemaVersion": 1,
+  "coinDouble": {
+    "enabled": true
+  },
   "interstitial": {
     "enabled": true,
-    "skipFirstCompletedRuns": 2,
+    "skipFirstCompletedRuns": 6,
     "minCompletedRunsBetweenAds": 3,
     "minSecondsSinceLastFullscreenAd": 180,
     "skipIfRewardedAdShownThisRun": true
